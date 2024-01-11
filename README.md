@@ -1,13 +1,14 @@
 ## Full Stack Developer | Passionate about Crafting Digital Solutions 🚀
 
-👋 Hello, I'm Md Arif, a results-driven Full Stack Developer with a keen eye for detail and a knack for turning innovative ideas into robust, user-friendly applications. I thrive on challenges and enjoy working on projects that demand a blend of creativity and technical expertise.
+👋 Hello, I'm Md Arif,Dedicated full-stack developer skilled in MERN (MongoDB, Express.js, React, Node.js) technologies, as well as front-end and back-end development. Proficient in HTML, CSS, JavaScript, and server-side frameworks. Experienced in database management, API integration, and deploying scalable solutions. Committed to staying updated on emerging technologies. Passionate about creating efficient and innovative digital solutions..
 
 ### 💻 Tech Stack:
 
-- **Frontend:** React.js, HTML5, CSS3, JavaScript,bootstrap
-- **Backend:** Node.js, Express.js, MongoDB
-- **Database:** PostgreSQL, MySQL
-- **Tools & Platforms:** Git, render
+- **Frontend:** React.js, HTML5, CSS3, JavaScript, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Tools & Platforms:** Git
+
 
 ### 🌐 What I Do:
 
@@ -18,8 +19,8 @@
 
 ### 🚀 Projects:
 
--Expense Tracker: ([link-to-project1](https://expense-frontend-drab.vercel.app/)):Developed a personalized expense tracker app with user authentication and premium features powered by Razorpay. The app includes a leaderboard, dark mode, and expense data download, offering a tailored and secure user experience.
--Ledger:([link-to-project2](https://ledger-jet.vercel.app/)): Shop owners can use this project to record credit and debit  transactions for their trusted customers.
+-Expense Tracker: ((https://expense-frontend-drab.vercel.app/)):Developed a personalized expense tracker app with user authentication and premium features powered by Razorpay. The app includes a leaderboard, dark mode, and expense data download, offering a tailored and secure user experience.
+-Ledger:((https://ledger-jet.vercel.app/)): Shop owners can use this project to record credit and debit  transactions for their trusted customers.
 
 ### 📚 Learning & Growth:
 
